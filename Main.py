@@ -10,4 +10,4 @@
 # THIS IS WHERE YOU CODE
 print(tournament)
 input("press any key to exit")
-print(tournament) 
+print(tournament) gte
