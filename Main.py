@@ -9,4 +9,5 @@
 
 # THIS IS WHERE YOU CODE
 print(tournament)
-input
+input("press any key to exit")
+print(tournament) 
