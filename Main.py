@@ -14,4 +14,3 @@ name = input("irish: ")
 wins = int(input("Enter wins: "))
 losses = int(input("Enter losses: "))
 ties = int(input("Enter ties: "))
- input
