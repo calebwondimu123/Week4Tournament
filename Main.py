@@ -8,6 +8,10 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
-print(tournament)
+tournament_name = input ("week 4 tournament: ")
 input("press any key to exit")
-print(tournament) gte
+name = input("irish: ")
+wins = int(input("Enter wins: "))
+losses = int(input("Enter losses: "))
+ties = int(input("Enter ties: "))
+ input
